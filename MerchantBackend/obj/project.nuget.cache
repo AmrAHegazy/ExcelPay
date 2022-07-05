@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgmUl6ExzNyHhgrESxcZqwiv4iArtZp/EEdvConmOnMKklJf+gsjTuvu03T06Uwhxi8M16KDY72E0Ivb1ABGOQ==",
+  "success": true,
+  "projectFilePath": "E:\\ExcelPayBackend\\MerchantBackend\\MerchantBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amr Hegazy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Amr Hegazy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Amr Hegazy\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Amr Hegazy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Amr Hegazy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Amr Hegazy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
