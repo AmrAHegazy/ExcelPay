@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ExcelPayBackend\\MerchantBackend\\MerchantBackend.csproj": {}
+    "C:\\Users\\Amr Hegazy\\Documents\\GitHub\\ExcelPay\\MerchantBackend\\MerchantBackend.csproj": {}
   },
   "projects": {
-    "E:\\ExcelPayBackend\\MerchantBackend\\MerchantBackend.csproj": {
+    "C:\\Users\\Amr Hegazy\\Documents\\GitHub\\ExcelPay\\MerchantBackend\\MerchantBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ExcelPayBackend\\MerchantBackend\\MerchantBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Amr Hegazy\\Documents\\GitHub\\ExcelPay\\MerchantBackend\\MerchantBackend.csproj",
         "projectName": "MerchantBackend",
-        "projectPath": "E:\\ExcelPayBackend\\MerchantBackend\\MerchantBackend.csproj",
+        "projectPath": "C:\\Users\\Amr Hegazy\\Documents\\GitHub\\ExcelPay\\MerchantBackend\\MerchantBackend.csproj",
         "packagesPath": "C:\\Users\\Amr Hegazy\\.nuget\\packages\\",
-        "outputPath": "E:\\ExcelPayBackend\\MerchantBackend\\obj\\",
+        "outputPath": "C:\\Users\\Amr Hegazy\\Documents\\GitHub\\ExcelPay\\MerchantBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

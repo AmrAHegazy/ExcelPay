@@ -1,5 +1,12 @@
 ﻿@page
 @model ExcelPayBackend.Views.IndexModel
+
 @{
-    <p>@Model.message</p>
+    <div style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);transition: 0.3s;width: 40%;">
+          <div style="padding: 2px 16px;">
+              <h4><b>@Model.merch</b></h4>
+              <p>@Model.intent</p>
+              <p>@Model.ifram</p>
+          </div>
+    </div>
 }
